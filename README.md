@@ -1,21 +1,21 @@
 <html>
      <head>
           <style>
-               div.top{ 
+               .divTOP{ 
                     
                     width: 300px;
                     height: auto; 
                     border: solid 2px gray;
                     text-align: center;
                }
-               div.bottom{
+               .divBOTTOM{
                     border: 5px outset red;
                     text-align: center;
                }
           </style>
      </head>
      <body>
-          <div class="top">
+          <div class="divTOP">
                img src="NMS_RP - Banner -SVG.svg"
                alt="NMS_RP Banner Icon"
           </div>
