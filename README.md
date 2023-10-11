@@ -1,4 +1,4 @@
-<img src="650X_NMS_JAR_TEMPLATE/NMS_RP - Banner -SVG.svg"
+<img src="NMS_RP - Banner -SVG.svg"
      alt="NMS_RP Banner Icon"
      style="float: center;" />
      
