@@ -11,7 +11,7 @@ JAR is short for Jackson Area Robotics. The NMS_RP (short for Northern Middle Sc
 
 3. First configure your robot using the graphical configurer, then follow the instructions in main.cpp to configure the template to your robot specs.
 
-4. Check out the [documentation](Check out the documentation for more detailed tutorials and information on using the template) for more detailed tutorials and information on using the template.
+4. Check out the [documentation](https://jacksonarearobotics.github.io/JAR-Template/) for more detailed tutorials and information on using the template.
 
 ## JAR Template Updates
 To check out the latest JAR Template updates. Click [Here](https://github.com/JacksonAreaRobotics/JAR-Template/releases/tag/v1.1.2).
