@@ -17,7 +17,6 @@
      </head>
      <body>
           <div class="div_top">
-               
           </div>
           <div class="div_bottom">
                <h1>650X_NMS_JAR_TEMPLATE</h1>
