@@ -1,10 +1,4 @@
-<!DOCTYPE md>
-<html>
-     
-<head>
-</head>
-     
-     <body>
+!-- docType MD --
           <div>
                img src="NMS_RP - Banner -SVG.svg"
                alt="NMS_RP Banner Icon"
