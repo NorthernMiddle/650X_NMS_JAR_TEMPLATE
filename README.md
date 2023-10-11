@@ -1,17 +1,17 @@
 <html>
      <head>
           <style>
-               div.top{ 
-                         img src="NMS_RP - Banner -SVG.svg"
-                         alt="NMS_RP Banner Icon"
-                         width: 300px;
-                         height: auto; 
-                         border: solid 2px gray;
-                         text-align: center;
+          div.top{ 
+                    img src="NMS_RP - Banner -SVG.svg"
+                    alt="NMS_RP Banner Icon"
+                    width: 300px;
+                    height: auto; 
+                    border: solid 2px gray;
+                    text-align: center;
                }
-               div.bottom{
-                          border: 5px outset red;
-                          text-align: center;
+          div.bottom{
+                    border: 5px outset red;
+                    text-align: center;
                }
           </style>
      </head>
