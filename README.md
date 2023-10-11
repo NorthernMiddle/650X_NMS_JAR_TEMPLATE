@@ -1,4 +1,7 @@
-![NORTHERN MIDDLE SCHOOL ROBOTICS PROGRAM BANNER],(NMS_RP - Banner -SVG.svg)
+<img src="markdownmonstericon.png"
+     alt="NMS_RP Banner Icon"
+     style="float: center;" />
+     
 # 650X_NMS_JAR_TEMPLATE
 
 * A simple and powerful VexCode Pro V5 library featuring PID, odometry, and custom motion algorithms.
