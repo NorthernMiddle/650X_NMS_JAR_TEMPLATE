@@ -3,14 +3,16 @@
           <style>
                .div_top{
                            border: 5px outset gray;
-                           text-align: center;}
+                           text-align: center;
+               }
                .div_bottom{
                           border: 5px outset red;
-                          text-align: center;}
+                          text-align: center;
+               }
           </style>
      </head>
      <body>
-          <div class="div_head">
+          <div class="div_top">
                <img 
                     src="NMS_RP - Banner -SVG.svg"
                     alt="NMS_RP Banner Icon"
@@ -19,7 +21,7 @@
                     width="250" 
                     height="150">
           </div>
-          <div class="div_body">
+          <div class="div_bottom">
                <h1>650X_NMS_JAR_TEMPLATE</h1>
                <ul>
                     <li>
