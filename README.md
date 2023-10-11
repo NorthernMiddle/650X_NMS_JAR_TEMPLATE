@@ -1,19 +1,21 @@
 <html>
-     <head>
-          <style>
-               .divTOP{ 
-                    
-                    width: auto;
-                    height: auto; 
-                    border: solid 2px gray;
-                    image-align: center;
-               }
-               .divBOTTOM{
-                    border: 5px outset red;
-                    text-align: center;
-               }
-          </style>
-     </head>
+     
+<head>
+<style>
+.divTOP{ 
+width: auto;
+height: auto; 
+border: solid 2px gray;
+image-align: center;
+border: 3px solid #73AD21;
+}
+.divBOTTOM{
+border: 5px outset red;
+text-align: center;
+}
+</style>
+</head>
+     
      <body>
           <div class="divTOP">
                img src="NMS_RP - Banner -SVG.svg"
