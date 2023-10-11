@@ -1,4 +1,4 @@
-<body style="background-color:Light Grey;">
+<body style="background-color:LightGray;">
 <img src="NMS_RP - Banner -SVG.svg"
      width="250" 
      height="150"
