@@ -3,10 +3,10 @@
           <style>
                .divTOP{ 
                     
-                    width: 300px;
+                    width: auto;
                     height: auto; 
                     border: solid 2px gray;
-                    text-align: center;
+                    image-align: center;
                }
                .divBOTTOM{
                     border: 5px outset red;
