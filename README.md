@@ -1,4 +1,4 @@
-<img src="[markdownmonstericon.png](https://github.com/NorthernMiddle/650X_NMS_JAR_TEMPLATE/blob/main/NMS_RP%20-%20Banner%20-SVG.svg)"
+<img src="NMS_RP - Banner -SVG.svg"
      alt="NMS_RP Banner"
      style="float: left; margin-right: 10px;" />
      
