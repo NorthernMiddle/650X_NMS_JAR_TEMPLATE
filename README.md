@@ -1,14 +1,14 @@
 <html>
      <head>
           <style>
-          div.top{ 
+               div.top{ 
                     
                     width: 300px;
                     height: auto; 
                     border: solid 2px gray;
                     text-align: center;
                }
-          div.bottom{
+               div.bottom{
                     border: 5px outset red;
                     text-align: center;
                }
