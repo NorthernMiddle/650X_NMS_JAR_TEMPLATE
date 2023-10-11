@@ -1,5 +1,5 @@
 <img src="NMS_RP - Banner -SVG.svg"
-     width="300" 
+     width="250" 
      height="150"
      alt="NMS_RP Banner Icon"
      style="float: center;" />
