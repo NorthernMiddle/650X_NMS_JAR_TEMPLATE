@@ -4,7 +4,7 @@
 </head>
      
      <body>
-          <div class="divTOP">
+          <div>
                img src="NMS_RP - Banner -SVG.svg"
                alt="NMS_RP Banner Icon"
           </div>
