@@ -1,3 +1,7 @@
+img src="NMS_RP - Banner -SVG.svg"
+alt="NMS_RP Banner Icon"
+
+
 # 650X_NMS_JAR_TEMPLATE
 * A simple and powerful VexCode Pro V5 library featuring PID, odometry, and custom motion algorithms.
 * JAR is short for [Jackson Area Robotics](https://github.com/JacksonAreaRobotics). NMS_RP is short 
