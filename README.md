@@ -1,4 +1,4 @@
-![./NMS_RP - Banner -SVG.svg](https://github.com/NorthernMiddle/650X_NMS_JAR_TEMPLATE/blob/main/NMS_RP%20-%20Banner%20-SVG.svg)
+<img src="[url](https://github.com/NorthernMiddle/650X_NMS_JAR_TEMPLATE/blob/main/NMS_RP%20-%20Banner%20-SVG.svg)" alt="NMS_RP - Banner -SVG.svg">
 
 # 650X_NMS_JAR_TEMPLATE
 * A simple and powerful VexCode Pro V5 library featuring PID, odometry, and custom motion algorithms.
