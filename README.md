@@ -5,7 +5,7 @@
   
 * JAR is short for [Jackson Area Robotics](https://github.com/JacksonAreaRobotics). NMS_RP is short for [Northern Middle School Robotics Program](https://sites.google.com/pulaski.kyschools.us/nms-robotics/front) The 650X_NMS_JAR_Template is a modified form of the JAR Template. Drive options have been modified.
 
-## NMS_RP PROGRAMMING OPTIONS
+## NMS_RP Programming Options
 [NOTE:]For the competition season 2023-24, NMS_RP will continue to utilize the following options for programming purposes. Click [here](https://www.vexrobotics.com/vexcode/install/v5) to download. 
 
 *  BASIC PROGRAMMIG: VEXcode (Blocks and Text)
