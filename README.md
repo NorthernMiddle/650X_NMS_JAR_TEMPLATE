@@ -2,7 +2,7 @@
 
 A simple and powerful VexCode Pro V5 library featuring PID, odometry, and custom motion algorithms. 
 
-JAR is short for Jackson Area Robotics. The NMS_RP (short for Northern Middle School Robotics Program) is a modified form of the JAR Template. Drive options have been modified.
+JAR is short for [Jackson Area Robotics](https://github.com/JacksonAreaRobotics). The NMS_RP (short for Northern Middle School Robotics Program) is a modified form of the JAR Template. Drive options have been modified.
 
 ## Installation
 1. Download the project by downloading the "650X_NMS_JAR-Template.zip". 
