@@ -1,9 +1,13 @@
 <html>
      <head>
           <style>
-               .div_top{
-                           border: 5px outset gray;
-                           text-align: center;
+               .div_top{ 
+                         img src="NMS_RP - Banner -SVG.svg"
+                         alt="NMS_RP Banner Icon"
+                         width: 300px;
+                         height: auto; 
+                         border: solid 2px gray;
+                         text-align: center;
                }
                .div_bottom{
                           border: 5px outset red;
@@ -13,13 +17,7 @@
      </head>
      <body>
           <div class="div_top">
-               <img 
-                    src="NMS_RP - Banner -SVG.svg"
-                    alt="NMS_RP Banner Icon"
-                    position: relative;
-                    left: 30px;
-                    width="250" 
-                    height="150">
+               
           </div>
           <div class="div_bottom">
                <h1>650X_NMS_JAR_TEMPLATE</h1>
