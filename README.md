@@ -1,5 +1,5 @@
-<div>
-     <div>
+<div class="row">
+     <div class="column">
           <img 
                src="NMS_RP - Banner -SVG.svg"
                alt="NMS_RP Banner"
@@ -7,7 +7,7 @@
                height="auto"
           />
      </div>
-     <div>
+     <div class="column">
           <h1></h1> 650X_NMS_JAR_TEMPLATE </h1>
           <ul>
                <li>
