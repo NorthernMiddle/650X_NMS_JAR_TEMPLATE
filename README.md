@@ -16,7 +16,7 @@ JAR is short for Jackson Area Robotics. The NMS_RP (short for Northern Middle Sc
 ## JAR Template Updates
 To check out the latest JAR Template updates. Click [Here](https://github.com/JacksonAreaRobotics/JAR-Template/releases/tag/v1.1.2).
 
-## Docs
+## [Docs](https://jacksonarearobotics.github.io/JAR-Template/)
 ## Basic Tutorials
 ## Advanced Tutorials
 
