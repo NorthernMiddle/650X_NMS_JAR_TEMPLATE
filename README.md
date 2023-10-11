@@ -6,7 +6,6 @@
                            text-align: center;}
                .div_bottom{
                           border: 5px outset red;
-                          background-color: lightblue;
                           text-align: center;}
           </style>
      </head>
@@ -15,6 +14,8 @@
                <img 
                     src="NMS_RP - Banner -SVG.svg"
                     alt="NMS_RP Banner Icon"
+                    position: relative;
+                    left: 30px;
                     width="250" 
                     height="150">
           </div>
