@@ -1,10 +1,29 @@
-<img src="NMS_RP - Banner -SVG.svg"
-     width="250" 
-     height="150"
-     alt="NMS_RP Banner Icon"
-     style="float: center;" />
-     
-# 650X_NMS_JAR_TEMPLATE
+<html>
+     <head>
+     <style>
+          .div_top{
+                      border: 5px outset gray;
+                      text-align: center;
+               }
+          .div_bottom{
+                     border: 5px outset red;
+                     background-color: lightblue;
+                     text-align: center;
+
+          }
+     </style>
+     </head>
+
+     <body>
+          <div class="div_head">
+               <img 
+                    src="NMS_RP - Banner -SVG.svg"
+                    alt="NMS_RP Banner Icon"
+                    width="250" 
+                    height="150">
+          </div>
+          <div class="div_body">
+               # 650X_NMS_JAR_TEMPLATE
 
 * A simple and powerful VexCode Pro V5 library featuring PID, odometry, and custom motion algorithms.
   
@@ -35,4 +54,12 @@ To check out the latest JAR Template updates. Click [Here](https://github.com/Ja
 
 ## Development
 JAR Template Developed by Josh, from 2775V of Jackson Area Robotics. Big thanks to Samuel from 2775V, Javier, Mikey, Ryan (4253B), Leo, JerryLum, and Nick (QUEEN) from VTOW and JPearman from the Vex Forum, whose assistance made this project possible.
+          </div>
+          
+     </body>
+</html>
+
+
+     
+
 
