@@ -19,7 +19,8 @@
                img src="NMS_RP - Banner -SVG.svg"
                alt="NMS_RP Banner Icon"
           </div>
-          <div class="bottom">
+          
+          <div class="divBOTTOM">
                <h1>650X_NMS_JAR_TEMPLATE</h1>
                <ul>
                     <li>
