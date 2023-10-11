@@ -1,11 +1,11 @@
 ![NORTHERN MIDDLE SCHOOL ROBOTICS PROGRAM BANNER],(https://drive.google.com/file/d/1SNhosXMDNOu_RCBDt6rD1T6-y_ihfxIY/view?usp=sharing)
 # 650X_NMS_JAR_TEMPLATE
 
-A simple and powerful VexCode Pro V5 library featuring PID, odometry, and custom motion algorithms.
+* A simple and powerful VexCode Pro V5 library featuring PID, odometry, and custom motion algorithms.
 
-For the competition season 2023-24, NMS_RP will continue to utilize VEXcode Pro V5 ver 2.0.6 for advanced programming purposes. Click [here](https://www.vexrobotics.com/vexcode/install/v5) to download.
+* For the competition season 2023-24, NMS_RP will continue to utilize VEXcode Pro V5 ver 2.0.6 for advanced programming purposes. Click [here](https://www.vexrobotics.com/vexcode/install/v5) to download.
 
-JAR is short for [Jackson Area Robotics](https://github.com/JacksonAreaRobotics). NMS_RP is short for [Northern Middle School Robotics Program](https://sites.google.com/pulaski.kyschools.us/nms-robotics/front) The 650X_NMS_JAR_Template is a modified form of the JAR Template. Drive options have been modified.
+* JAR is short for [Jackson Area Robotics](https://github.com/JacksonAreaRobotics). NMS_RP is short for [Northern Middle School Robotics Program](https://sites.google.com/pulaski.kyschools.us/nms-robotics/front) The 650X_NMS_JAR_Template is a modified form of the JAR Template. Drive options have been modified.
 
 ## Installation
 1. Download the project by downloading the "650X_NMS_JAR-Template.zip". 
