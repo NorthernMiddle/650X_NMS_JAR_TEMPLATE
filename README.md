@@ -1,4 +1,3 @@
-<body style="background-color:LightGray;">
 <img src="NMS_RP - Banner -SVG.svg"
      width="250" 
      height="150"
@@ -37,4 +36,3 @@ To check out the latest JAR Template updates. Click [Here](https://github.com/Ja
 ## Development
 JAR Template Developed by Josh, from 2775V of Jackson Area Robotics. Big thanks to Samuel from 2775V, Javier, Mikey, Ryan (4253B), Leo, JerryLum, and Nick (QUEEN) from VTOW and JPearman from the Vex Forum, whose assistance made this project possible.
 
-</body>
