@@ -1,13 +1,4 @@
-<style>
-.city {
-  background-color: tomato;
-  color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
-}
-</style>
-<div class="city">
+<div>
 <img 
      src="NMS_RP - Banner -SVG.svg"
      alt="NMS_RP Banner"
