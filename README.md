@@ -3,7 +3,9 @@
           alt="NMS_RP Banner"
           width="250px"
           height="auto"
-          class="center"
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
        >
        
 # 650X_NMS_JAR_TEMPLATE
