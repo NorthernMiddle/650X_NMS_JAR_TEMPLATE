@@ -2,7 +2,7 @@
 <img 
    src="NMS_RP - Banner -SVG.svg"
    alt="NMS_RP Banner"
-   style="align:center;width:30%;height:auto;">   
+   style="img-align:center;width:30%;height:auto;">   
 </center>
 
 
