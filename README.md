@@ -2,8 +2,9 @@
      src="NMS_RP - Banner -SVG.svg"
      alt="NMS_RP Banner"
      display: block;
-     margin-left: auto;
-     margin-right: auto;
+     style="width:50%"
+     weight: 50px;
+     height: auto;
 >
 
 # 650X_NMS_JAR_TEMPLATE
