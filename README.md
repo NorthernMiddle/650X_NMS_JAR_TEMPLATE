@@ -37,6 +37,14 @@ JAR Template Developed by Josh, from 2775V of Jackson Area Robotics. Big thanks 
 from 2775V, Javier, Mikey, Ryan (4253B), Leo, JerryLum, and Nick (QUEEN) from VTOW and 
 JPearman from the Vex Forum, whose assistance made this project possible.    
 
+## Mods to Drive Options
+Drive option modifications to the 'drive.cpp' file now offer selections for:
+* Arcade Drive: Left Joystick Control Full (No Strafe from Toggle Axes)
+* Arcade Drive: Right Joystick Control Full (No Strafe from Toggle Axes)
+* Arcade Drive: Split Left (Axis3 Throttle, Axis1 Turn)
+* Arcade Drive: Split Right (Axis4 Turn, Axis2 Throttle)
+* Holonomic (Arcade: Split Left, Axis4 Strafe)
+* Tank (Axis3 Throttle, Axis2 Throttle)(No Strafe from Toggle Axes)
 
 
 
