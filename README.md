@@ -2,7 +2,7 @@
 <img 
    src="NMS_RP - Banner -SVG.svg"
    alt="NMS_RP Banner"
-   style="img-align:center;width:30%;height:auto;">   
+   style="img-align:center;width:35%;height:auto;">   
 </p>
 
 # 650X_NMS_JAR_TEMPLATE
