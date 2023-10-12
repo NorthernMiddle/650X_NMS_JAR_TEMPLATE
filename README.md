@@ -1,7 +1,10 @@
+<center>
 <img 
    src="NMS_RP - Banner -SVG.svg"
    alt="NMS_RP Banner"
-   style="width:50%;height:auto;">
+   style="width:50%;height:auto;">   
+</center>
+
 
 # 650X_NMS_JAR_TEMPLATE
 * A simple and powerful VexCode Pro V5 library featuring PID, odometry, and custom motion algorithms.</li>
