@@ -38,7 +38,7 @@ from 2775V, Javier, Mikey, Ryan (4253B), Leo, JerryLum, and Nick (QUEEN) from VT
 JPearman from the Vex Forum, whose assistance made this project possible.    
 
 ## Mods to Drive Options
-Drive option modifications to the 'drive.cpp' file now offer selections for:
+NMS_RP drive option modifications to the 'drive.cpp' file now offer selections for:
 * Arcade Drive: Left Joystick Control Full (No Strafe from Toggle Axes)
 * Arcade Drive: Right Joystick Control Full (No Strafe from Toggle Axes)
 * Arcade Drive: Split Left (Axis3 Throttle, Axis1 Turn)
