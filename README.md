@@ -4,8 +4,6 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 250px;
-  height: 150px;
 }
 </style>
 </head>
