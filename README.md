@@ -1,7 +1,6 @@
  <img
      src="NMS_RP - Banner -SVG.svg"
      alt="NMS_RP Banner"
-     style="width:50%"
      weight: 50px;
      height: auto;
 >
