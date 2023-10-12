@@ -1,4 +1,4 @@
-<div>
+<div style="padding-inline-start: 50px;">
 <img 
      src="NMS_RP - Banner -SVG.svg"
      alt="NMS_RP Banner"
