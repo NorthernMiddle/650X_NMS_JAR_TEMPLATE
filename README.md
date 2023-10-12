@@ -3,7 +3,7 @@
    src="NMS_RP - Banner -SVG.svg"
    alt="NMS_RP Banner"
    style="width:50%;"
-  >
+>
 </center>
 
 
