@@ -1,8 +1,8 @@
 <figure>
      <img src="NMS_RP - Banner -SVG.svg"
           alt="NMS_RP Banner"
-          width: 50%;
-          height: 50%;
+          width: 250;
+          height: 100;
      >
 </figure>
 
